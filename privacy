@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Privacy Policy - Lezugo</title>
+</head>
+<body>
+  <h1>Privacy Policy - Lezugo</h1>
+  <p>Last updated: 06.05.2026</p>
+
+  <Privacy Policy – Lezugo
+
+Last updated: [DATE]
+
+Lezugo ("we", "our", or "us") operates the mobile application "Lezugo - Learn Eastern Armenian".
+
+This Privacy Policy explains how we collect, use, and protect your information.
+
+## 1. Information We Collect
+
+We collect the following types of data:
+
+- Account Information: Email address and authentication data via Supabase Auth
+- User Progress Data: Learning progress, completed lessons, and preferences
+- Usage Data: Basic interaction data within the app
+
+We do not collect sensitive personal data.
+
+## 2. Audio Content
+
+Our app provides audio content (e.g., vocabulary and example sentences).  
+Audio files are hosted on Supabase Storage and are streamed when used.
+
+No audio is recorded from your device.
+
+## 3. Authentication
+
+User authentication is handled by Supabase.
+
+Supabase may process:
+- Email address
+- Login credentials
+
+For more information, please refer to Supabase's privacy policy.
+
+## 4. Payments and Subscriptions
+
+We offer optional premium subscriptions.
+
+Payments are processed via:
+- Google Play Billing
+- RevenueCat (subscription management)
+
+We do not store payment information such as credit card details.
+
+## 5. Data Storage
+
+Your data is stored securely using Supabase services.
+
+## 6. Data Sharing
+
+We do not sell your personal data.
+
+We share data only with:
+- Supabase (backend services)
+- RevenueCat (subscription management)
+- Google Play (payment processing)
+
+## 7. Your Rights
+
+Depending on your location, you may have the right to:
+- Access your data
+- Request deletion of your data
+
+To request this, contact us at:
+[YOUR EMAIL]
+
+## 8. Data Security
+
+We take reasonable measures to protect your data.
+
+## 9. Changes
+
+We may update this Privacy Policy from time to time.
+
+## 10. Contact
+
+Email: steffenw412@gmail.com>
+
+</body>
+</html>
